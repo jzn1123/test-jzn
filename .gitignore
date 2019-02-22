@@ -1,0 +1,9 @@
+rev/
+dist/
+.idea/
+node_modules/
+rev/
+.babelrc
+gulpfile.js
+package-lock.json
+.vscode
